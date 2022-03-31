@@ -15,7 +15,7 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <springframework.version>2.0.1.RELEASE</springframework.version>
+        <springframework.version>2.5.12</springframework.version>
         <spring-boot.version>2.1.5.RELEASE</spring-boot.version>
     </properties>
 
